@@ -1,0 +1,6 @@
+id=remove-adid-on-boot
+name=Remove Google Advertising ID on Boot
+version=v1
+versionCode=1
+author=hendrikiseke1979
+description=This Magisk Module removes Google Advertising ID on system startup.
